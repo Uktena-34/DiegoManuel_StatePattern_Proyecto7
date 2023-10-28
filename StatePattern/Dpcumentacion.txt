@@ -1,0 +1,4 @@
+﻿Este Patron es de comportamiento ya que permite que un objeto cambie de coportamiento cuando cambia su estado interno
+
+Este patron se utiliza normalmente en c# y se utiliza para convertir enormes maquinas de estados basados en un	"SWITCH"
+
